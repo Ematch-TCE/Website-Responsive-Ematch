@@ -21,5 +21,3 @@
     ·
     <a href="https://github.com/Ematch-TCE/Artefatos-do-Projeto">Artefatos</a>
   </p>
-
-# Sobre o projeto
