@@ -23,7 +23,7 @@
   
   
   <p align="center">
-    <a href="https://ematch.netlify.app">Ematch Website</a>
+    <a href="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/LICENSE">Licença</a>
     ·
     <a href="https://github.com/Ematch-TCE/Ematch-TCE">Apresentação</a>
     ·
