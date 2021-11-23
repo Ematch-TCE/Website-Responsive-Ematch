@@ -11,7 +11,7 @@
       <img alt="Tests Passing" src="https://img.shields.io/npm/l/react"/>
     </a>
     <a href="https://img.shields.io/netlify/d64989cf-7dfe-4917-9658-3d2559f73910?color=purple&label=Ematch&logo=Netlify">
-      <img src="https://img.shields.io/netlify/d64989cf-7dfe-4917-9658-3d2559f73910?color=purple&label=Ematch&logo=Netlify" />
+      <img src="https://img.shields.io/netlify/bf670101-0ac5-40fd-aa09-e014894a37c7?color=655BE1&logo=Netlify" />
   </a>
   </p>
   
@@ -29,3 +29,5 @@
     ·
     <a href="https://github.com/Ematch-TCE/Artefatos-do-Projeto">Artefatos</a>
   </p>
+  
+  
