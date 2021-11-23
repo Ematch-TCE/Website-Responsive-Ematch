@@ -30,4 +30,16 @@
     <a href="https://github.com/Ematch-TCE/Artefatos-do-Projeto">Artefatos</a>
   </p>
   
+  ## Layout Mobile
+  
+  <div style="display=inline_block">
+  <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-1.png"> <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-2.png">
+  </div>
+  
+  ## Layout Web
+  
+  <div>
+  <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-4.png"> <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-3.png">
+  </div>
+  
   
