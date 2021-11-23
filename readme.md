@@ -39,7 +39,7 @@
   ## Layout Web
   
   <div>
-  <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-4.png"> <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-3.png">
+  <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-b.png"> <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela.png">
   </div>
   
   
