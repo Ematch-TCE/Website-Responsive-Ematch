@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="empresa.css">
+    <link rel="shortcut icon" href="fav.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <title>Empresa</title>
+</head>
+<body>
+      
+    <div class="container">
+      <input type="checkbox" id="flip">
+        <div class="cover">
+          <div class="front">
+            <img src="images/banner 2.png">
+            <div class="text">
+              <span class="text-1">"Emprego para todos <br> através de um match"</span>
+              <span class="text-2">Conecte-se</span>
+            </div>
+          </div>
+          <div class="back">
+           <img class="backImg" src="images/b1.png">
+            <div class="text">
+              <span class="text-1">"Ajudando sua Empresa a <br> ter destaque"</span>
+              <span class="text-2">Comece agora</span>
+            </div>
+          </div>
+        </div>
+        <div class="forms">
+            <div class="form-content">
+              <div class="login-form">
+                <div class="title">Login</div>
+              <form action="#">
+                <div class="input-boxes">
+                  <div class="input-box">
+                    <i class="fas fa-envelope"></i>
+                    <input type="text" placeholder="Digite seu email" required>
+                  </div>
+                  <div class="input-box">
+                    <i class="fas fa-lock"></i>
+                    <input type="password" placeholder="Digite sua senha" required>
+                  </div>
+                  <div class="text"><a href="#">Esqueceu a senha?</a></div>
+                  <div class="button input-box">
+                    <input type="submit" value="Entrar">
+                  </div>
+                  <div class="text sign-up-text">Não tem uma conta? <label for="flip">Cadastre-se agora</label></div>
+                </div>
+            </form>
+          </div>
+            <div class="signup-form">
+              <div class="title">Cadastro</div>
+            <form action="#">
+                <div class="input-boxes">
+                  <div class="input-box">
+                    <i class="fas fa-briefcase"></i>
+                    <input list="portes" name="prt" id="prt" placeholder="Selecione o Porte da sua Empresa" required>
+                    <datalist id="portes">
+                      <option value="Pequena">
+                      <option value="Média">
+                      <option value="Grande">
+                    </datalist>
+                  </div>
+                  <div class="input-box">
+                    <i class="fas fa-user-tie"></i>
+                    <input type="text" placeholder="Digite o nome da Empresa" required>
+                  </div>
+                  <div class="input-box">
+                    <i class="fas fa-envelope"></i>
+                    <input type="text" placeholder="Digite o email" required>
+                  </div>
+                  <div class="input-box">
+                    <i class="fas fa-calendar"></i>
+                    <input type="date" min="1900-01-01" max="2021-11-30" required>
+                  </div>
+                  <div class="input-box">
+                    <i class="fas fa-check-square"></i>
+                    <input type="text" placeholder="Digite o CNPJ" required>
+                  </div>
+                  <div class="input-box">
+                    <i class="fas fa-lock"></i>
+                    <input type="password" placeholder="Crie uma senha" required>
+                  </div>
+                  <div class="button input-box">
+                    <input type="submit" value="Entrar">
+                  </div>
+                  <div class="text sign-up-text">Já possui uma conta? <label for="flip">Faça Login</label></div>
+                </div>
+          </form>
+        </div>
+        </div>
+        </div>
+      </div>
+    </div>
+</body>
+</html>
