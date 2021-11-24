@@ -34,12 +34,14 @@
   
   <div style="display=inline_block">
   <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-a.png"> <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-2.png">
+   <p>Tela de Login & de Candidatos</p>
   </div>
   
   ## Layout Web
   
   <div>
   <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-b.png"> <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela.png">
+  <p>Tela Inicial & de Empresas</p>
   </div>
   
   
