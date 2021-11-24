@@ -48,4 +48,26 @@
   <p>Tela Inicial & de Empresas</p>
   </div>
   
+   <br>
+  
+   ## Tecnologias Usadas
+   
+   ### Front End
+   * HTML
+   * CSS
+   * JS
+
+   ### Em produção
+   * Back end
+   * Banco de Dados
+ 
+  <br>
+
+  ## Desenvolvedora
+  
+
+  <img height="100em" width="100em" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Bru-Camps-Image/photo-bru-camps.png"> 
+  
+   [Bruna Campos](https://github.com/BruCamps/)
+  
   
