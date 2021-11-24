@@ -30,6 +30,8 @@
     <a href="https://github.com/Ematch-TCE/Artefatos-do-Projeto">Artefatos</a>
   </p>
   
+  <br>
+  
   ## Layout Mobile
   
   <div style="display=inline_block">
@@ -37,10 +39,12 @@
    <p>Tela de Login & de Candidatos</p>
   </div>
   
+   <br>
+  
   ## Layout Web
   
   <div>
-  <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-b.png"> <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela.png">
+  <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-b.png"> <br> <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela.png">
   <p>Tela Inicial & de Empresas</p>
   </div>
   
