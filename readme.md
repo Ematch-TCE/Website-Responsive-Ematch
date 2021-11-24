@@ -35,7 +35,7 @@
   ## Layout Mobile
   
   <div style="display=inline_block">
-  <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-a.png"> <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-2.png">
+  <img style="max-width: 100%;" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-a.png"> <img style="max-width: 100%;" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-2.png">
    <p>Tela de Login & de Candidatos</p>
   </div>
   
@@ -44,7 +44,7 @@
   ## Layout Web
   
   <div>
-  <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-b.png"> <br> <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela.png">
+  <img style="max-width: 100%;" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-b.png"> <br> <img style="max-width: 100%;" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela.png">
   <p>Tela Inicial & de Empresas</p>
   </div>
   
