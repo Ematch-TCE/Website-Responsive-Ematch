@@ -33,7 +33,7 @@
   ## Layout Mobile
   
   <div style="display=inline_block">
-  <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-1.png"> <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-2.png">
+  <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-a.png"> <img src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-2.png">
   </div>
   
   ## Layout Web
