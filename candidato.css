@@ -208,6 +208,26 @@ body{
 }
 
 
+.forms .form-content .button a .aaa{
+  color: #fff;
+  background: linear-gradient(to top, rgb(218, 28, 66), rgb(255, 69, 131));
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 10px 150px;
+  transition: all 0.4s ease;
+}
+
+
+.forms .form-content .button a .aaa{
+  color: #fff;
+  background: linear-gradient(to top, rgb(243, 37, 78), rgb(246, 80, 135));
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 10px 150px;
+  transition: all 0.4s ease;
+}
+
+
 .forms .form-content .text{
   font-size: 14px;
   font-weight: 500;
