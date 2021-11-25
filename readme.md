@@ -65,9 +65,6 @@
 
   ## Desenvolvedora
   
-
-  <img height="100em" width="100em" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Bru-Camps-Image/photo-bru-camps.png"> 
-  
    [Bruna Campos](https://github.com/BruCamps/)
   
   
