@@ -2,7 +2,7 @@
  <img width="150px" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/images/menina.png" align="center" alt="Figura feminina" />
  <img width="80px" src="https://cdn.discordapp.com/attachments/912327034615779338/913507712334168074/logomarca-ematch.png" align="center" alt="Logomarca do Ematch" />
  <h2 align="center">Detalhes sobre o Website</h2>
- <p align="center"><em>Considerando o desenvolvimento da aplicação, gostariamos de mostrar um pouco mais sobre o nosso site, apontando diversos pontos sobre o processo de sua construção. Para isso, criamos um repositório e adicionamos todo o código. Mas se por acaso você optar por reutilizar nossos códigos, deixa os créditos, tá? ✨✌<em> </p>
+ <p align="center"><em>Considerando o desenvolvimento da aplicação, gostariamos de destrinchar algumas coisas sobre o site, apontando diversos pontos sobre o processo de sua construção. Para isso, criamos esse repositório e adicionamos todo o código. Mas se por acaso você optar por reutilizar nossos códigos, deixa os créditos, tá? ✨✌<em> </p>
 </p>
  
 
