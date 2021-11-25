@@ -242,6 +242,27 @@ body{
 }
 
 
+.forms .form-content .button a .aaa{
+  color: #fff;
+  background: linear-gradient(to top,  #3b4192, #2b38e7);
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 10px 150px;
+  transition: all 0.4s ease;
+}
+
+
+.forms .form-content .button a .aaa:hover{
+  color: #fff;
+  background: linear-gradient(to top, #4046a3, #2735ff);
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 10px 150px;
+  transition: all 0.4s ease;
+}
+
+  
+  
 .forms .form-content label{
   color: #3b4192;
   cursor: pointer;
