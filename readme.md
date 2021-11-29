@@ -55,10 +55,11 @@
   
   ## Layout Web
   
-
+  <div>
   <img style="max-width: 100%;" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-b.png"> 
    
   <img style="max-width: 100%;" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela.png">
+   </div>
  
    <br>
  
