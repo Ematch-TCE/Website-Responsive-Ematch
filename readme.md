@@ -11,7 +11,7 @@
       <img alt="Tests Passing" src="https://img.shields.io/npm/l/react"/>
     </a>
     <a href="https://img.shields.io/netlify/d64989cf-7dfe-4917-9658-3d2559f73910?color=purple&label=Ematch&logo=Netlify">
-      <img src="https://img.shields.io/netlify/6d7f8de1-e987-43e6-bb00-583f633a5e2a?color=655BE1&logo=Netlify">
+      <img src="https://img.shields.io/netlify/6d7f8de1-e987-43e6-bb00-583f633a5e2a?color=%233B7FD9&logo=netlify">
   </a>
   </p>
   
