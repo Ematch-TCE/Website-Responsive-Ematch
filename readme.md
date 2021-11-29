@@ -9,7 +9,7 @@
     <a href="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/LICENSE">
       <img alt="Tests Passing" src="https://img.shields.io/npm/l/react"/>
     </a>
-      <img src="https://img.shields.io/netlify/6d7f8de1-e987-43e6-bb00-583f633a5e2a?color=blue">
+      <img src="https://img.shields.io/badge/netlify-passing-blue">
   </p>
   
   <p align="center">
