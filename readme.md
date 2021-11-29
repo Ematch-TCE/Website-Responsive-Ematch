@@ -5,8 +5,6 @@
  <h4 align="center"><em>Considerando o desenvolvimento da aplicação, gostariamos de destrinchar algumas coisas sobre o site, apontando diversos pontos sobre o processo de sua construção. Para isso, criamos esse repositório e adicionamos todo o código. Mas se por acaso você optar por reutilizar nossos códigos, deixa os créditos, tá? ✨✌<em> </h4>
 </p>
  
- > Ematch
- 
 
  <p align="center">
     <a href="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/LICENSE">
@@ -57,9 +55,10 @@
   
   ## Layout Web
   
-  <div>
-  <img style="max-width: 100%;" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-b.png"> <br> <img style="max-width: 100%;" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela.png">
-  </div>
+
+  <img style="max-width: 100%;" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-b.png"> 
+   
+  <img style="max-width: 100%;" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela.png">
  
    <br>
  
