@@ -4,7 +4,7 @@
  <h2 align="center">Detalhes sobre o Website</h2>
  <p align="center">Considerando o desenvolvimento da aplicação, gostariamos de destrinchar algumas coisas sobre o site, apontando diversos pontos sobre o processo de sua construção. Para isso, criamos esse repositório e adicionamos todo o código. Caso você queira reutilizar uma parte dos códigos, deixa os créditos, tá? ✨✌</p>
  
- 
+ <br>
 
  <p align="center">
     <a href="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/LICENSE">
