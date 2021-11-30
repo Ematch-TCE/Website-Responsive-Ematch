@@ -42,7 +42,7 @@
   
   <details>
  
-  <summary><b> Layout Mobile ✨ </b></summary>
+  <summary><b> Layout Mobile </b></summary>
  
   <br>
   
@@ -60,7 +60,7 @@
   
   <details>
   
-  <summary><b> Layout Web ✨ </b></summary>
+  <summary><b> Layout Web </b></summary>
  
   <br>
   
@@ -80,7 +80,7 @@
    
   <details>
  
-  <summary><b> Tecnologias Usadas ⚡ </b></summary>
+  <summary><b> Tecnologias Usadas </b></summary>
    
    <br>
  
