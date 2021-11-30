@@ -40,7 +40,11 @@
   
   <br>
   
-  ## Layout Mobile ✨
+  <details>
+ 
+  <summary><b> Layout Mobile ✨ </b></summary>
+ 
+  <br>
   
   <div style="display=inline_block">
   <img style="max-width: 100%;" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-a.png"> <img style="max-width: 100%;" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-2.png">
@@ -49,10 +53,16 @@
   <br>
  
    > Tela de Login & de Candidatos
+ 
+  </details>
   
    <br>
   
-  ## Layout Web ✨
+  <details>
+  
+  <summary><b> Layout Web ✨ </b></summary>
+ 
+  <br>
   
   <div>
   <img style="max-width: 100%;" src="https://github.com/Ematch-TCE/Website-Responsive-Ematch/blob/main/Layouts/tela-b.png"> 
@@ -63,11 +73,17 @@
    <br>
  
    > Tela Inicial & de Empresas
+   
+  </details>
   
    <br>
-  
-   ## Tecnologias Usadas ⚡
    
+  <details>
+ 
+  <summary><b> Tecnologias Usadas ⚡ </b></summary>
+   
+   <br>
+ 
    ### Front End
    
    ```md
@@ -90,6 +106,8 @@
    · Python
    
    ```
+ 
+  </details>
    
    ##
  
