@@ -91,6 +91,18 @@
    
    ```
    
-   <br>
+   ##
+ 
+ <br>
+ 
+ Esperamos que tenham gostado do projeto ❤
+ 
+ ---
+ 
+ Contribuições são bem-vindas! 😊
+ 
+ 
+ <br>
+   
  
   
