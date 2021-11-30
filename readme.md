@@ -61,7 +61,7 @@
  
    <br>
  
-   > Tela de Inicial & de Empresas
+   > Tela Inicial & de Empresas
   
    <br>
   
