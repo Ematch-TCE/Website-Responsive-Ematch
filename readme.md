@@ -68,13 +68,24 @@
    ## Tecnologias Usadas
    
    ### Front End
-   * HTML
-   * CSS
-   * JS
+   
+   ```md
+   # Finalizado
+   
+   · HTML
+   · CSS
+   · JS
+   ```
 
-   ### Em produção
-   * Back end
- 
-   - Banco de Dados
+   ### Back End
+   
+   ```md
+   
+   # Em produção
+      
+   · Banco de Dados
+   · Python
+   
+   ```
  
   
