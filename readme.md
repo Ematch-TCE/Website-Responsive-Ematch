@@ -65,7 +65,7 @@
   
    <br>
   
-   ## Tecnologias Usadas
+   ## Tecnologias Usadas ⚡
    
    ### Front End
    
