@@ -3,7 +3,7 @@
  
  ---
  
- <p align="center">Considerando o desenvolvimento da aplicação, gostariamos de destrinchar algumas coisas sobre o site, apontando diversos pontos sobre o processo de sua construção. Para isso, criamos esse repositório e adicionamos todo o código. E se quiser reutilizar e/ou se inspirar não tem problema, só pedimos que deixem os créditos, tudo bem?</p>
+ <p align="center">Pensando em nossa jornada, decidimos destrinchar pra vocês o que foi preciso para desenvolver o site. Para isso, criamos esse repositório e adicionamos todo o código feito. Caso você queira se inspirar em alguma coisa, deixa os créditos, tá?</p>
  
  <br>
 
