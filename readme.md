@@ -3,7 +3,7 @@
  
  ---
  
- <p align="center">Pensando em nossa jornada, decidimos destrinchar pra vocês o que foi preciso para desenvolver o site. Para isso, criamos esse repositório e adicionamos todo o código feito. Caso você queira se inspirar em alguma coisa, deixa os créditos, tá?</p>
+ <p align="center">Pensando em nossa jornada, decidimos destrinchar pra vocês o que precisamos ter feito para desenvolver o site. Para isso, criamos esse repositório e adicionamos todo o código construído até então. Caso você queira se inspirar em alguma coisa, deixa os créditos, tá?</p>
  
  <br>
 
